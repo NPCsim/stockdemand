@@ -1,0 +1,1 @@
+streamlit==1.35.0pandas==2.2.2numpy==1.26.4prophet==1.1.5scipy==1.13.0plotly==5.22.0openpyxl==3.1.2
