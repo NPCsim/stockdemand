@@ -6,3 +6,5 @@ prophet==1.1.5
 scipy==1.13.0
 plotly==5.22.0
 openpyxl==3.1.2
+Cython==0.29.34
+pystan==2.19.1.1
