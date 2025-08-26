@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-from prophet import Prophet
+from fbprophet import Prophet 
 from scipy.stats import norm
 import plotly.graph_objects as go
 import warnings
@@ -205,4 +205,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
